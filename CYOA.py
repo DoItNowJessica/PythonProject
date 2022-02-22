@@ -1,4 +1,5 @@
 #This is a choose your own adventure game
+#Good luck!
 
 print('Hello, adventurer. What is your name?')
 name = input()
